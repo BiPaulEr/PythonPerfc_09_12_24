@@ -5,3 +5,6 @@ def salut():
 
 class MyClass:
     pass
+
+if __name__ == "__main__":
+    salut()
