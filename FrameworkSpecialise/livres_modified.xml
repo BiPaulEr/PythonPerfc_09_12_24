@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<livres>
+    <livre id="1">
+        <titre>Le Livre A</titre>
+        <auteur>Auteur A</auteur>
+    </livre>
+    <livre id="2">
+        <titre>Le Livre B</titre>
+        <auteur>Auteur B</auteur>
+    </livre>
+    <livre id="3">
+        <titre>Livre C</titre>
+        <auteur>Auteur C</auteur>
+    </livre>
+</livres>
